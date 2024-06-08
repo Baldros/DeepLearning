@@ -1,6 +1,8 @@
 # Apresentação:
 Seja bem vindo, a proposta desse repositório é acomodar todo conhecimento acumulado (cursos no geral) sobre a área de ***Deep Learning***. Cada curso será acomodado na pasta contendo seu respectivo nome, exatamente como está na plataforma do curso/certificado. Cada pasta tera a sua respectiva descrição de modo que o diretório fique organizado e o conhecimento fique de fácil acesso.
 
+Fica a recomendação de acompanhar os cursos aqui acompanhado de algum livro texto, tal qual [Deep Learning, do Ian Good](https://www.deeplearningbook.org/)
+
 ***Deep Learning*** é uma técnica das inúmeras técnicas de ***Machine Learning*** que existem e está classicamente definida dentro do escopo de **Aprendizado supervisionado**, porém, devido ao crescimento da relevância da tecnica, sendo praticamente uma nova área, eu decidi criar um repositório separado para o estudo dessa técnica de **Aprendizado de Máquina**.
 
 # Definição de Deep Learning:
