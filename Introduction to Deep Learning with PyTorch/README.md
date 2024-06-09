@@ -12,6 +12,9 @@ construido até então possibilitará aproveitar o PyTorch para resolver problem
 
 4.  Avaliando e Melhorando Modelos: Treinar um modelo de aprendizado profundo é uma arte e, para garantir que nosso modelo seja treinado corretamente, precisamos acompanhar certas métricas durante o treinamento, como perda ou precisão. Aprenderemos como calcular essas métricas e como reduzir o overfitting usando um conjunto de dados de imagem como exemplo.
 
+![image](https://github.com/Baldros/DeepLearning-libs/assets/114627100/5849a8ef-ccd6-440f-b1d0-5ad19a1c255a)
+
+
 Plataforma: DataCamp
 
 
